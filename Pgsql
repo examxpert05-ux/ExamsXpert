@@ -1,0 +1,29 @@
+examsxpert/
+  server/            <-- Node + Express + MongoDB (JWT auth)
+    .env.example
+    package.json
+    server.js
+    src/
+      models/User.js
+      models/Test.js
+      middleware/auth.js
+      routes/auth.js
+      routes/tests.js
+  client/            <-- React (tumhara UI + pages)
+    package.json
+    public/index.html
+    src/
+      index.js
+      App.js
+      App.css        <-- tumhare attractive styles + few form styles
+      api.js
+      AuthContext.jsx
+      components/Header.jsx
+      pages/
+        Home.jsx     <-- tumhara original cards/hero/footer
+        Login.jsx
+        Signup.jsx
+        Tests.jsx
+        TakeTest.jsx
+        AdminPanel.jsx
+        AddTest.jsx
