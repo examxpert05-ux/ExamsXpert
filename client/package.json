@@ -2,6 +2,7 @@
   "name": "examsxpert-client",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://examxpert05-ux.github.io/ExamsXpert",
   "proxy": "http://localhost:5000",
   "dependencies": {
     "axios": "^1.7.2",
