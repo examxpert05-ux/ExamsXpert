@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.264601a3.css",
-    "main.js": "/static/js/main.3785a8f0.js",
-    "index.html": "/index.html",
-    "main.264601a3.css.map": "/static/css/main.264601a3.css.map",
-    "main.3785a8f0.js.map": "/static/js/main.3785a8f0.js.map"
+    "main.css": "/ExamsXpert/static/css/main.264601a3.css",
+    "main.js": "/ExamsXpert/static/js/main.3785a8f0.js",
+    "index.html": "/ExamsXpert/index.html",
+    "main.264601a3.css.map": "/ExamsXpert/static/css/main.264601a3.css.map",
+    "main.3785a8f0.js.map": "/ExamsXpert/static/js/main.3785a8f0.js.map"
   },
   "entrypoints": [
     "static/css/main.264601a3.css",
