@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ExamsXpert/static/css/main.264601a3.css",
-    "main.js": "/ExamsXpert/static/js/main.089be87f.js",
+    "main.js": "/ExamsXpert/static/js/main.0864feb8.js",
     "index.html": "/ExamsXpert/index.html",
     "main.264601a3.css.map": "/ExamsXpert/static/css/main.264601a3.css.map",
-    "main.089be87f.js.map": "/ExamsXpert/static/js/main.089be87f.js.map"
+    "main.0864feb8.js.map": "/ExamsXpert/static/js/main.0864feb8.js.map"
   },
   "entrypoints": [
     "static/css/main.264601a3.css",
-    "static/js/main.089be87f.js"
+    "static/js/main.0864feb8.js"
   ]
 }
