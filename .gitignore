@@ -16,8 +16,10 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# Build output
+# Build output (frontend)
 client/build/
+
+# Backend build output (if any, optional)
 server/dist/
 
 # Coverage reports
@@ -29,3 +31,6 @@ Thumbs.db
 
 # VSCode settings
 .vscode/
+
+# Optional: npm package lock files if you want to ignore them
+# package-lock.json
